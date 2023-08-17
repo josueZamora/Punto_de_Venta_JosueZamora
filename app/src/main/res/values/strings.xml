@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamOrdi_DAMll_Punto_de_Venta</string>
+
+    <string name="insertarPro">Insertar Producto</string>
+    <string name="eliminarpro">Eliminar Producto</string>
+    <string name="actualizarPro">Actualizar Producto</string>
+</resources>
